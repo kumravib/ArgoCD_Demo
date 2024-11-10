@@ -5,7 +5,7 @@ image:
   repository: 941377152740.dkr.ecr.us-east-1.amazonaws.com/argocd/ravi
   # pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  dockerImageTag: 8
+  dockerImageTag: 3
 
 # imagePullSecrets: []
 # nameOverride: ""
